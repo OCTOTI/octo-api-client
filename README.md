@@ -11,4 +11,4 @@ O Método de Autenticação utilizado atualmente tanto pelo **MasterSGi** como pelo
 Os algoritmos de validação e autenticação usados estão disponíveis no namespace **OCTO.Api.Client.Authenticators**, são 3:
 - BasicAuthenticator
 - HmacAuthenticator
-- JWTcAuthenticator
+- JWTAuthenticator
